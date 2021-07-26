@@ -2,7 +2,7 @@
 
 **DOCKER FILE**
 
-1.Written a Docker file which is having base image of ubuntu 16.04 and installed the required packages . Finally, when running a container from the docker image, it should launch with bash.
+1.Written a Docker file which is having base image of ubuntu 16.04 and installed the required packages . 
 
 2.For building docker image use :
 
